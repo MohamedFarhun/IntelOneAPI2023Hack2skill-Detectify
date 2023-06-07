@@ -1,0 +1,1 @@
+# IntelOneAPI2023Hack2skill-Detectify
