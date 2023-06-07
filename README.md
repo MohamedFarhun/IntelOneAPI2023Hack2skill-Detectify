@@ -2,11 +2,11 @@
 
 # Problem 1:- Object detection for Autonomous vehicles
 
-**Introduction:**-
+# Introduction:-
 
 Many people employ expensive GPUs to reduce the training and inference times for machine learning on industrial datasets that keep growing. The presentation of our project will show how you may use Intel's optimised libraries, which are both inexpensive and streamlined, to speed up your machine learning process.
 
-**IntelOneAPI Toolkits**:-
+# IntelOneAPI Toolkits :-
 
 This reference notebook will demonstrate how to leverage several accelerated Python libraries found in the Intel® AI Analytics Toolkit to increase the speed, accuracy, and throughput of your machine learning (ML) process. In this notebook, the primary libraries we'll utilise are:
 
@@ -20,10 +20,12 @@ This reference notebook will demonstrate how to leverage several accelerated Pyt
 
 5.Intel®Optimization for Tensorflow
 
-**About the project**:-
+# About the project :-
+
 Yolo, a convolutional neural network-based technique, is used in our project **Detectify** to detect objects.
 What makes object detection great, then? A detection algorithm, in contrast to a recognition algorithm, not only anticipates class labels but also locates objects.
 
+# Prototype round:-
 After getting selected in this **prototype round** , we would be deploying an app in which users can input an image and object detection is done by the app itself.We will also apply the same algorithm to video detections and objects are detected in the video
 
 If intel members keep our hardwork in mind and select us,We would be deploying an useful object detection app using Intel Optimized Libraries.
